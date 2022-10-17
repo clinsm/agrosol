@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/Tractor.svg");
+  background-image: url("images/tractors.png");
   background-position: 50% 50%;
 }
 
@@ -22,7 +22,7 @@
 
   .u-section-1 .u-text-1 {
     font-size: 4.5rem;
-    width: auto;
+    width: 100%;
     margin-top: 102px;
     margin-right: 551px;
   }
