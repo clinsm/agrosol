@@ -228,7 +228,11 @@
   height: 514px;
   margin: -739px auto 60px -682px;
 }
-
+@media (max-width: 1920px) {
+  .u-section-4 .u-image-1 {
+        margin-left: -420px;
+  }
+}
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
     min-height: 319px;
@@ -518,11 +522,10 @@
 }
 @media (max-width: 1920px) {
   .u-section-9 .u-image-1 {
-        margin-right: -450px;
+        margin-right: -420px;
   }
-
-
 }
+
 @media (max-width: 1199px) {
   .u-section-9 .u-text-1 {
     font-size: 1.25rem;
