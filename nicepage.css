@@ -39098,6 +39098,14 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 103px;
   margin: -103px 0 1px auto;
 }
+@media (max-width: 1920px) {
+  .u-footer .u-image-2 {
+    width: 661px;
+    height: 643px;
+    margin: -823px auto 0 -400px;
+  }
+
+}
 @media (max-width: 1199px) {
    .u-footer {
     min-height: 384px;
