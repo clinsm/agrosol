@@ -82,7 +82,7 @@
 }
 
 .u-section-2 .u-text-2 {
-  width:600px;
+  max-width:600px;
   line-height: 2;
   font-weight: 300;
   margin: 11px auto 0 0;
