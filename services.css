@@ -516,7 +516,13 @@
   font-size: 1rem;
   margin: 20px 0;
 }
+@media (max-width: 1920px) {
+  .u-section-9 .u-image-1 {
+        margin-right: -450px;
+  }
 
+
+}
 @media (max-width: 1199px) {
   .u-section-9 .u-text-1 {
     font-size: 1.25rem;
