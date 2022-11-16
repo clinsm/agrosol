@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/tractors.png");
+  background-image: url("images/Tractor.jpg");
   background-position: 50% 50%;
 }
 
@@ -13,6 +13,7 @@
   font-weight: 500;
   text-decoration: none solid rgb(255, 255, 255);
   margin: 83px 751px 60px 0;
+   float: right !important;
 }
 
 @media (max-width: 1199px) {
@@ -21,10 +22,8 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 4.5rem;
-    width: 100%;
+    font-size: 6rem;
     margin-top: 102px;
-    margin-right: 551px;
   }
 }
 
